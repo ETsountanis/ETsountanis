@@ -23,6 +23,7 @@ Feel free to connect with me on:
 
 ### Fun Fact
 I feel like I'm closer to JavaScript even though my current role is more focused on C# and .NET. Maybe it's because JavaScript is so versatile and widely used across different platforms. 😜
-In my profile picture you can see my little girl . ![alt text](https://prnt.sc/fGNR6iveRPly)
+In my profile picture you can see my little girl . ![alt text](https://prnt.sc/fGNR6iveRPly) ![image](https://github.com/user-attachments/assets/e18c9198-202a-4b5c-9bac-eec31f34d121)
+
 
 Thanks for stopping by! I look forward to sharing my projects and connecting with you!
