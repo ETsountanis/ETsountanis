@@ -25,6 +25,6 @@ Feel free to connect with me on:
 I feel like I'm closer to JavaScript even though my current role is more focused on C# and .NET. Maybe it's because JavaScript is so versatile and widely used across different platforms. 😜
 
 
-In my profile picture you can see my little girl .  <img src="https://github.com/ETsountanis/Image/blob/main/448932694_3057742201033908_4494615982010567565_n.jpg" alt="Image" width="50" height="50">
+In my profile picture you can see my little girl .  <img src="https://github.com/ETsountanis/ETsountanis/blob/main/arya.png" alt="Image" width="50" height="50">
  
 Thanks for stopping by! I look forward to sharing my projects and connecting with you!
