@@ -8,7 +8,7 @@ In my free time, I focus on projects using the MERN stack to practice and improv
 - **Languages**: C#, JavaScript
 - **Frontend**: React, HTML, CSS
 - **Backend**: Node.js, Express.js, .NET
-- **Databases**: MongoDB, SQL Server
+- **Databases**: MongoDB, MSQL Server
 - **Others**: Git, REST APIs
 
 ### Projects
@@ -23,7 +23,6 @@ Feel free to connect with me on:
 
 ### Fun Fact
 I feel like I'm closer to JavaScript even though my current role is more focused on C# and .NET. Maybe it's because JavaScript is so versatile and widely used across different platforms. 😜
-In my profile picture you can see my little girl . https://prnt.sc/fGNR6iveRPly 
-
+In my profile picture you can see my little girl .  https://imgur.com/ykQPFaG
 
 Thanks for stopping by! I look forward to sharing my projects and connecting with you!
