@@ -26,6 +26,6 @@ I feel like I'm closer to JavaScript even though my current role is more focused
 
 
 In my profile picture you  see my little girl . 
-<div ></div>  <img src="https://github.com/ETsountanis/ETsountanis/blob/main/arya.png" alt="Image" width="100" height="100">
+<div ></div>  <img src="https://github.com/ETsountanis/ETsountanis/blob/main/arya.png" alt="Image" width="150" height="150">
  
 Thanks for stopping by! I look forward to sharing my projects and connecting with you!
