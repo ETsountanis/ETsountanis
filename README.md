@@ -11,11 +11,6 @@ In my free time, I focus on projects using the MERN stack to practice and improv
 - **Databases**: MongoDB, MSQL Server
 - **Others**: Git, REST APIs
 
-### Projects
-I love to experiment and build new things. Here are some of the projects I've been working on in my free time:
-- **Project 1**: [Link to project](https://github.com/ETsountanis/MERN-STACK-WEBSITE)
-  - Description: A brief description of what this project is about.
-
 ### Get In Touch
 Feel free to connect with me on:
 - [LinkedIn](https://www.linkedin.com/in/eleftherios-tsountanis-09a91a2ba/)
